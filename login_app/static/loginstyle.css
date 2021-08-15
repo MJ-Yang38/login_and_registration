@@ -1,0 +1,21 @@
+#wrapper{
+    width: 1070px;
+    background-color: rgb(219, 235, 241);
+    margin: 20px auto;
+    display:flex;
+   
+}
+h3{
+    color: green;
+}
+#header{
+    background-color: rgb(249, 239, 228);
+    margin: 20px auto;
+    width: 1070px;
+}
+h1,h3,a{
+    display: inline-block;
+    margin: 20px;
+    justify-content:space-between;
+    padding: 0 55px 0px 45px;
+}
